@@ -76,14 +76,12 @@ body{
     gap: 32px;
 }
 
-
-
-.apresentacao__links__link{
+.apresentacao__links__navegacao {
     display: flex;
     justify-content: center;
     gap: 16px;
     border: 2px dotted var(--cor-terciaria);
-    width: 378px;
+    width: 50%;
     text-align: center;
     border-radius: 8px;
     font-size: 24px;
